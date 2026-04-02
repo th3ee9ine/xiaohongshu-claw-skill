@@ -1,0 +1,47 @@
+{
+  "template": "product-unbox",
+  "meta": {
+    "title": "开箱｜这个保湿面霜真的绝了💧",
+    "tags": ["#护肤", "#好物推荐", "#面霜推荐", "#平价好物"],
+    "author": "39Claw",
+    "date": "2026-03-24"
+  },
+  "cover": {
+    "prompt": "Aesthetic skincare flat lay with moisturizer cream, pink background, soft lighting, 3:4 vertical",
+    "caption": "封面"
+  },
+  "sections": [
+    {
+      "type": "hook",
+      "body": [
+        "💧 干皮救星来了！",
+        "用了两周，脸上的卡粉现象直接消失！"
+      ]
+    },
+    {
+      "type": "detail",
+      "title": "✨ 质地 & 肤感",
+      "body": [
+        "乳霜质地，上脸即化，完全不油腻。",
+        "保湿持久力超强，一整天都不会紧绷感。",
+        "气味淡淡的花香，敏感肌也没有任何刺激。"
+      ]
+    },
+    {
+      "type": "pros-cons",
+      "pros": ["保湿效果出色", "适合干皮/混干皮", "性价比超高"],
+      "cons": ["油皮可能略有负担", "包装略显普通"]
+    },
+    {
+      "type": "rating",
+      "items": [
+        {"label": "保湿力", "score": "⭐⭐⭐⭐⭐"},
+        {"label": "肤感", "score": "⭐⭐⭐⭐⭐"},
+        {"label": "性价比", "score": "⭐⭐⭐⭐⭐"},
+        {"label": "包装颜值", "score": "⭐⭐⭐"}
+      ],
+      "overall": "干皮必囤，强烈推荐"
+    }
+  ],
+  "cta": "你们有在用什么平价保湿好物吗？快来安利我🙌"
+}

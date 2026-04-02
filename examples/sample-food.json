@@ -1,0 +1,46 @@
+{
+  "template": "food-explore",
+  "meta": {
+    "title": "上海宝藏火锅｜人均80吃到撑🔥",
+    "tags": ["#上海美食", "#火锅推荐", "#探店", "#上海探店"],
+    "author": "39Claw",
+    "date": "2026-03-24",
+    "location": "上海·静安区"
+  },
+  "cover": {
+    "prompt": "Steaming hot pot with colorful ingredients, red broth, close-up appetizing shot, food blog style, 3:4 vertical",
+    "caption": "封面"
+  },
+  "sections": [
+    {
+      "type": "hook",
+      "body": [
+        "🔥 终于找到上海性价比最高的火锅！",
+        "人均80，量大料足，汤底真的很香～"
+      ]
+    },
+    {
+      "type": "detail",
+      "title": "🍲 汤底 & 食材",
+      "body": [
+        "番茄牛骨汤底，自然酸甜不腻，越喝越上头！",
+        "肥牛、毛肚、虾滑必点，新鲜度拉满🥩",
+        "蘸料台自助，芝麻酱+小米辣是绝配。"
+      ]
+    },
+    {
+      "type": "pros-cons",
+      "pros": ["食材新鲜，分量足", "环境干净整洁", "服务态度好"],
+      "cons": ["晚高峰需等位约30分钟", "停车位较少"]
+    },
+    {
+      "type": "tips",
+      "body": [
+        "💡 工作日午餐有优惠套餐，88元2人！",
+        "📱 提前在大众点评预约，免排队。",
+        "🕐 推荐17:30前到店，避开等位高峰。"
+      ]
+    }
+  ],
+  "cta": "你们上海有什么宝藏火锅推荐吗？快来评论区分享🙏"
+}

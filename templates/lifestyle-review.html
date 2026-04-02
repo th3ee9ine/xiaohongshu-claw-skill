@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>{{TITLE}}</title>
+<style>
+  body{margin:0;padding:0;font-family:-apple-system,'PingFang SC','Helvetica Neue',sans-serif;background:#fff;}
+  .xhs-wrap{max-width:540px;margin:0 auto;padding-bottom:32px;}
+  .xhs-header{background:#fff5f6;padding:24px 18px 16px;}
+  .xhs-title{font-size:20px;font-weight:900;color:#fe2c55;line-height:1.35;margin:0 0 6px;}
+  .xhs-meta{font-size:12px;color:#888;margin:0;}
+</style>
+</head>
+<body>
+<section class="xhs-wrap">
+  <section class="xhs-header">
+    <p class="xhs-title">{{TITLE}}</p>
+    <p class="xhs-meta">{{AUTHOR}} · {{DATE_SHORT}}</p>
+    {{LOCATION}}
+  </section>
+  {{COVER_IMAGE}}
+  {{HOOK_SECTION}}
+  {{BODY_SECTIONS}}
+  {{TAGS_LINE}}
+  <section style="background:#fff;padding:16px 18px 8px;">
+    {{CTA}}
+  </section>
+</section>
+</body>
+</html>

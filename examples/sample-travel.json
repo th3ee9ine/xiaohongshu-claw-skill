@@ -1,0 +1,66 @@
+{
+  "template": "travel-diary",
+  "meta": {
+    "title": "杭州3天2夜｜超详细攻略🗺",
+    "tags": ["#杭州旅游", "#西湖", "#旅行攻略", "#周末出行"],
+    "author": "39Claw",
+    "date": "2026-03-24",
+    "location": "杭州·西湖区"
+  },
+  "cover": {
+    "prompt": "Beautiful sunrise over West Lake Hangzhou, reflections on water, misty morning, golden hour, 3:4 vertical",
+    "caption": "西湖晨雾"
+  },
+  "sections": [
+    {
+      "type": "hook",
+      "body": [
+        "🌊 去了三次西湖，这次终于玩明白了！",
+        "3天2夜行程全在这里，建议收藏备用～"
+      ]
+    },
+    {
+      "type": "detail",
+      "title": "📍 Day1 抵达 + 西湖漫步",
+      "body": [
+        "下午到杭州，先去断桥看夕阳🌅",
+        "晚上去湖滨步行街逛吃，人均50能吃撑！",
+        "住在湖边酒店，推荐提前1个月订房。"
+      ],
+      "image_prompt": "Sunset at Broken Bridge West Lake Hangzhou, orange sky, warm reflections, tourist walking"
+    },
+    {
+      "type": "detail",
+      "title": "📍 Day2 灵隐寺 + 河坊街",
+      "body": [
+        "早上8点去灵隐寺，避开人流高峰⛩️",
+        "下午逛河坊街，必买：西湖藕粉、龙井茶。",
+        "晚上打卡知味观，排队30分钟但真的值！"
+      ]
+    },
+    {
+      "type": "pros-cons",
+      "pros": ["景点集中，步行可到", "美食性价比高", "民宿选择丰富"],
+      "cons": ["周末人流量很大", "热门景点停车难"]
+    },
+    {
+      "type": "tips",
+      "body": [
+        "💡 西湖免费进入，不用买门票！",
+        "🚌 地铁1号线直达湖滨，交通超方便。",
+        "📸 最佳拍照时间：早上7-9点、下午4-6点。"
+      ]
+    },
+    {
+      "type": "rating",
+      "items": [
+        {"label": "景色颜值", "score": "⭐⭐⭐⭐⭐"},
+        {"label": "交通便利", "score": "⭐⭐⭐⭐⭐"},
+        {"label": "美食性价比", "score": "⭐⭐⭐⭐"},
+        {"label": "人流量", "score": "⭐⭐⭐"}
+      ],
+      "overall": "强烈推荐，适合周末短途"
+    }
+  ],
+  "cta": "你们去杭州最喜欢哪个地方？评论区分享给我🙌"
+}
